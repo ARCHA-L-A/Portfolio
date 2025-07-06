@@ -27,7 +27,23 @@ Data Science Intern skilled in:
 
 ---
 
+
 ### 💻 **Data Science Intern – Soften Technologies, Ernakulam**
 - Cleaned and preprocessed data using **Pandas, NumPy**
 - Performed **EDA** using **Matplotlib** and **Seaborn**
-- Applied **hypothesis te**
+- Applied **hypothesis testing** and correlation analysis
+- Built and optimized ML models using **Scikit-learn**
+- Used **cross-validation**, hyperparameter tuning, and performance evaluation
+- Created **Power BI dashboards** and static visualizations
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Statistics**  
+Kerala University, Christian College, Kattakada  
+📅 Jan 2022 – Apr 2024  
+📊 **Percentage**: 79%
+
+
+
