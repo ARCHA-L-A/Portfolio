@@ -46,4 +46,44 @@ Kerala University, Christian College, Kattakada
 📊 **Percentage**: 79%
 
 
+## 📜 Certifications
+Ncc C certificate holder
+
+---
+
+## 🏆 Achievements
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_LStGXFMaw8PQwdzNA_1750095951553_completion_certificate.pdf
+
+---
+
+## 📫 Contact
+
+- **Email**: archala7309@gmail.com
+- **LinkedIn**: www.linkedin.com/in/archa-l-a-281b59308
+
+- **GitHub**: https://github.com/your-username](https://github.com/ARCHA-L-A
+---
+
+## 🗂 Projects
+
+| Project | Description | Skills Used |
+|--------|-------------|-------------|
+| [Heart Disease Prediction](https://github.com/your-username/Heart-Disease-Prediction) | ML model to predict heart disease using KNN and cross-validation | Python, Pandas, Scikit-learn, EDA |
+
+---
+
+## 🧰 Tools & Technologies
+
+- Python, R, SQL
+- NumPy, Pandas, Scikit-learn
+- Matplotlib, Seaborn
+- Power BI
+- Git & GitHub
+
+---
+
+## 📄 License
+
+This project and portfolio content are released under the [MIT License](LICENSE).
+
 
