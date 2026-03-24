@@ -1,4 +1,5 @@
 import React from 'react';
+import portraitImg from '../assets/portrait.jpeg';
 
 const About = () => {
   return (
@@ -19,7 +20,7 @@ const About = () => {
         <div style={{ position: 'relative', height: '300px', borderRadius: '16px', overflow: 'hidden', border: '2px solid var(--accent-color)', boxShadow: '0 0 20px rgba(102, 252, 241, 0.3)' }}>
           <div style={{ width: '100%', height: '100%', backgroundColor: 'var(--accent-secondary)', opacity: 0.2, position: 'absolute', top: 0, left: 0, zIndex: 1, transition: 'all 0.3s ease' }} className="hover-clear"></div>
           <img 
-            src="/portrait.jpeg" 
+            src={portraitImg} 
             alt="Archa L A Portrait" 
             style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', top: 0, left: 0 }} 
           />
